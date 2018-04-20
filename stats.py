@@ -22,6 +22,8 @@ def stats(stats, input_path, fout):
         for stat in stats:
             _stats[stat][datum[stat]] = _stats[stat].get(datum[stat], 0) + 1
 
+    fout.write('total: {}\n\n'.format(len(data)))
+
     for stat in stats:
         fout.write(stat)
         fout.write('\n')
