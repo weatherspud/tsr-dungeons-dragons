@@ -238,7 +238,7 @@ year,title,code,type,system,setting
 1989,Cities of Mystery,,boxed set,AD&D,Forgotten Realms
 1989,The City of Greyhawk,,boxed set,AD&D,Greyhawk
 1989,Dawn of the Emperors: Thyatis and Alphatia,,boxed set,D&D,
-1989,Spelljammer: AD&D Adventures in Space SJ,,boxed set,AD&D,
+1989,Spelljammer: AD&D Adventures in Space,,boxed set,AD&D,Spelljammer
 1989,Time of the Dragon,,boxed set,AD&D,Dragonlance
 1989,Advanced Dungeons & Dragons 2nd Edition Preview,,accessory,AD&D,
 1989,City of Waterdeep Trail Map,,accessory,AD&D,Forgotten Realms
@@ -286,7 +286,7 @@ year,title,code,type,system,setting
 1990,Monstrous Compendium Dragonlance Appendix,,accessory,AD&D,Dragonlance
 1990,Monstrous Compendium Greyhawk Appendix,,accessory,AD&D,Greyhawk
 1990,Monstrous Compendium Kara-Tur Appendix,,accessory,AD&D,Forgotten Realms
-1990,Monstrous Compendium Spelljammer Appendix SJ,,accessory,AD&D,
+1990,Monstrous Compendium Spelljammer Appendix,,accessory,AD&D,Spelljammer
 1990,Otherlands,DLR1,accessory,AD&D,Dragonlance
 1990,Campaign Sourcebook and Catacomb Guide,DMGR1,accessory,AD&D,
 1990,The Castle Guide,DMGR2,accessory,AD&D,
@@ -297,7 +297,7 @@ year,title,code,type,system,setting
 1990,"Inside Ravens Bluff, the Living City",LC2,accessory,AD&D,Forgotten Realms
 1990,The Complete Priest's Handbook,PHBR3,accessory,AD&D,
 1990,The Complete Wizards's Handbook,PHBR4,accessory,AD&D,
-1990,Lost Ships SJ,SJR1,accessory,AD&D,
+1990,Lost Ships,SJR1,accessory,AD&D,Spelljammer
 1990,The Sea People,PC3,accessory,D&D,
 1990,Dark & Hidden Ways,,adventure,AD&D,
 1990,Wild Things,,adventure,AD&D,
@@ -320,9 +320,9 @@ year,title,code,type,system,setting
 1990,Ronin Challenge,OA6,adventure,AD&D,Forgotten Realms
 1990,Test of the Samurai,OA7,adventure,AD&D,Forgotten Realms
 1990,Feast of Goblyns,RA1,adventure,AD&D,Ravenloft
-1990,Wildspace SJ,SJA1,adventure,AD&D,
-1990,Skull & Crossbow SJ,SJA2,adventure,AD&D,
-1990,Crystal Spheres SJ,SJA3,adventure,AD&D,
+1990,Wildspace,SJA1,adventure,AD&D,Spelljammer
+1990,Skull & Crossbow,SJA2,adventure,AD&D,Spelljammer
+1990,Crystal Spheres,SJA3,adventure,AD&D,Spelljammer
 1990,Vale of the Mage,WG12,adventure,AD&D,Greyhawk
 1990,Falcon's Revenge,WGA1,adventure,AD&D,Greyhawk
 1990,Falconmaster,WGA2,adventure,AD&D,Greyhawk
@@ -333,14 +333,14 @@ year,title,code,type,system,setting
 1991,Tome of Magic,,hardcover,AD&D,
 1991,Dark Sun Boxed Set,,boxed set,AD&D,Dark Sun
 1991,Greyhawk Wars,,boxed set,AD&D,Greyhawk
-1991,The Legend of Spelljammer SJ,,boxed set,AD&D,
+1991,The Legend of Spelljammer,,boxed set,AD&D,Spelljammer
 1991,Maztica Campaign Set,,boxed set,AD&D,Forgotten Realms
 1991,The New Easy to Master Dungeons & Dragons Game,,boxed set,D&D,
 1991,Ruins of Undermountain,,boxed set,AD&D,Forgotten Realms
 1991,Monstrous Compendium Forgotten Realms Appendix,,accessory,AD&D,Forgotten Realms
 1991,Monstrous Compendium Outer Planes Appendix,,accessory,AD&D,
 1991,Monstrous Compendium Ravenloft Appendix,,accessory,AD&D,Ravenloft
-1991,Monstrous Compendium Spelljammer Appendix II SJ,,accessory,AD&D,
+1991,Monstrous Compendium Spelljammer Appendix II,,accessory,AD&D,Spelljammer
 1991,Character Record Sheets,DDREF1,accessory,D&D,
 1991,Arms and Equipment Guide,DMGR3,accessory,AD&D,
 1991,Drow of the Underdark,FOR2,accessory,AD&D,Forgotten Realms
@@ -358,9 +358,9 @@ year,title,code,type,system,setting
 1991,Darklords,RR1,accessory,AD&D,Ravenloft
 1991,Book of Crypts,RR2,accessory,AD&D,Ravenloft
 1991,Van Richten's Guide to Vampires,RR3,accessory,AD&D,Ravenloft
-1991,Realmspace SJ,SJR2,accessory,AD&D,
-1991,Dungeon Master's Screen SJ,SJR3,accessory,AD&D,
-1991,Practical Planetology SJ,SJR4,accessory,AD&D,
+1991,Realmspace,SJR2,accessory,AD&D,Spelljammer
+1991,Dungeon Master's Screen,SJR3,accessory,AD&D,Spelljammer
+1991,Practical Planetology,SJR4,accessory,AD&D,Spelljammer
 1991,Eye of Traldar,DDA3,adventure,D&D,
 1991,The Dymrak Dread,DDA4,adventure,D&D,
 1991,New Beginnings,DLS1,adventure,AD&D,Dragonlance
@@ -374,8 +374,8 @@ year,title,code,type,system,setting
 1991,Prince of Lankhmar,LNA3,adventure,AD&D,Lankhmar
 1991,Ship of Horror,RA2,adventure,AD&D,Ravenloft
 1991,Touch of Death,RA3,adventure,AD&D,Ravenloft
-1991,Under the Dark Fist SJ,SJA4,adventure,AD&D,
-1991,Goblin's Return SJ,SJS1,adventure,AD&D,
+1991,Under the Dark Fist,SJA4,adventure,AD&D,Spelljammer
+1991,Goblin's Return,SJS1,adventure,AD&D,Spelljammer
 1991,Five Shall Be One,WGS1,adventure,AD&D,Greyhawk
 1991,Howl from the North,WGS2,adventure,AD&D,Greyhawk
 1992,Dragon Kings,,hardcover,AD&D,Dark Sun
@@ -387,7 +387,7 @@ year,title,code,type,system,setting
 1992,Land of Fate,,boxed set,AD&D,Al-Qadim
 1992,Menzoberranzan,,boxed set,AD&D,Forgotten Realms
 1992,Tales of the Lance,,boxed set,AD&D,Dragonlance
-1992,War Captain's Companion SJ,,boxed set,AD&D,
+1992,War Captain's Companion,,boxed set,AD&D,Spelljammer
 1992,Wrath of the Immortals,,boxed set,D&D,
 1992,Golden Voyages,ALQ1,boxed set,AD&D,Al-Qadim
 1992,Strongholds,GR1,boxed set,AD&D,
@@ -402,7 +402,7 @@ year,title,code,type,system,setting
 1992,Thunder Rift,,accessory,D&D,
 1992,Volo's Guide to Waterdeep,,accessory,AD&D,Forgotten Realms
 1992,Poor Wizard's Almanac & Book of Facts,AC1010,accessory,D&D,
-1992,The Complete Spacefarer's Handbook SJ,CGR1,accessory,AD&D,
+1992,The Complete Spacefarer's Handbook,CGR1,accessory,AD&D,Spelljammer
 1992,Taladas: The Minotaurs,DLR2,accessory,AD&D,Dragonlance
 1992,Monster Mythology,DMGR4,accessory,AD&D,
 1992,Slave Tribes,DSR1,accessory,AD&D,Dark Sun
@@ -423,8 +423,8 @@ year,title,code,type,system,setting
 1992,Rogues Gallery,REF6,accessory,AD&D,
 1992,Islands of Terror,RR4,accessory,AD&D,Ravenloft
 1992,Van Richten's Guide to Ghosts,RR5,accessory,AD&D,Ravenloft
-1992,Rock of Bral SJ,SJR5,accessory,AD&D,
-1992,Greyspace SJ,SJR6,accessory,AD&D,
+1992,Rock of Bral,SJR5,accessory,AD&D,Spelljammer
+1992,Greyspace,SJR6,accessory,AD&D,Spelljammer
 1992,Treasures of Greyhawk,WGR2,accessory,AD&D,Greyhawk
 1992,Rary the Traitor,WGR3,accessory,AD&D,Greyhawk
 1992,Assault on Raven's Ruin,,adventure,D&D,
@@ -443,11 +443,11 @@ year,title,code,type,system,setting
 1992,Night of the Walking Dead,RQ1,adventure,AD&D,Ravenloft
 1992,Thoughts of Darkness,RQ2,adventure,AD&D,Ravenloft
 1992,From the Shadows,RQ3,adventure,AD&D,Ravenloft
-1992,Heart of the Enemy SJ,SJQ1,adventure,AD&D,
+1992,Heart of the Enemy,SJQ1,adventure,AD&D,Spelljammer
 1992,Patriots of Ulek,WGQ1,adventure,AD&D,Greyhawk
 1993,Book of Artifacts,,hardcover,AD&D,
 1993,Monstrous Manual,,hardcover,AD&D,
-1993,The Astromundi Cluster SJ,,boxed set,AD&D,
+1993,The Astromundi Cluster,,boxed set,AD&D,Spelljammer
 1993,Castles Forlorn,,boxed set,AD&D,Ravenloft
 1993,Champions of Mystara: Heroes of the Princess Ark,,boxed set,D&D,
 1993,City of Delights,,boxed set,AD&D,Al-Qadim
@@ -482,8 +482,8 @@ year,title,code,type,system,setting
 1993,The Complete Ranger's Handbook,PHBR11,accessory,AD&D,
 1993,Van Richten's Guide to the Lich,RR6,accessory,AD&D,Ravenloft
 1993,Van Richten's Guide to Werebeasts,RR7,accessory,AD&D,Ravenloft
-1993,Krynnspace SJ,SJR7,accessory,AD&D,
-1993,Space Lairs SJ,SJR8,accessory,AD&D,
+1993,Krynnspace,SJR7,accessory,AD&D,Spelljammer
+1993,Space Lairs,SJR8,accessory,AD&D,Spelljammer
 1993,The Marklands,WGR4,accessory,AD&D,Greyhawk
 1993,Iuz the Evil,WGR5,accessory,AD&D,Greyhawk
 1993,The City of Skulls,WGR6,accessory,AD&D,Greyhawk
