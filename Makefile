@@ -8,7 +8,7 @@ ve:
 src_files := $(wildcard *.py)
 
 pycodestyle:
-	. ve/bin/activate && echo $(src_files) | xargs pycodestyle
+	. ve/bin/activate && echo $(src_files) | xargs pycodestyle --max-line-length=120
 
 pylint:
 	. ve/bin/activate && echo $(src_files) | xargs pylint -E
